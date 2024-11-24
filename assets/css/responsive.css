@@ -1,0 +1,5 @@
+@media screen and (max-width: 1000px) {
+    .main-content .sticky-nav-bar .sticky-nav-left i:last-of-type,.main-content .sticky-nav-bar .sticky-nav-right button{
+        display: none;
+    }
+}
